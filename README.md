@@ -1,4 +1,4 @@
-testpanel
+# Project —— testpanel#
 =========
 
 4个方向的抽屉效果。
@@ -6,3 +6,8 @@ testpanel
 本项目为用IntelliJ IDEA 13 Import的项目。
 全部Clone下来之后，在用IDEA Import的时候，注意不要选择 dexedLibs，否则会导致项目编译失败。
 使用Eclipse的还请自测。
+
+总算初步的学会怎么使用TortoiseGit了。不得不说，在获得强大功能的同时，也伴随着复杂的设置和操作。不管怎么说，自己也算是有了收获和进步了。过段时间出一个视频教程上传到优酷空间去。
+
+----------
+2013/12/24 23:58:21 
